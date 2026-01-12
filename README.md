@@ -35,14 +35,12 @@ crypto-price-analytics-pipeline/
 │ └── model_results/ # Model predictions & metrics
 ├── paper/
 │ ├── ieee_crypto_pipeline.pdf # IEEE camera-ready research paper
-│ └── ieee_crypto_pipeline.tex # LaTeX source
 ├── src/
 │ ├── api_fetch.py
 │ ├── preprocessing.py
 │ ├── eda.py
 │ ├── feature_engineering.py
 │ └── model.py
-├── notebooks/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -149,7 +147,6 @@ This repository includes an IEEE-style research paper describing:
 See the `paper/` directory for:
 
 - Camera-ready PDF  
-- LaTeX source files  
 
 ---
 
