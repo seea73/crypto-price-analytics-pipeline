@@ -23,6 +23,8 @@ The project is designed to be **reproducible**, **modular**, and **research-read
 
 ## 🧱 Repository Structure
 
+```
+
 crypto-price-analytics-pipeline/
 ├── data/
 │ ├── bronze/ # Raw API data
@@ -45,7 +47,7 @@ crypto-price-analytics-pipeline/
 ├── .gitignore
 └── README.md
 
-
+```
 ---
 
 ## 🧠 Pipeline Architecture
@@ -115,7 +117,7 @@ outputs/model_results/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Install Dependencies
-'''bash
+```bash ```
 pip install -r requirements.txt
 
 ### 2️⃣ Run the Pipeline (in order)
