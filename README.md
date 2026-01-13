@@ -148,6 +148,11 @@ See the `paper/` directory for:
 
 - Camera-ready PDF  
 
+## 📄 Publication
+
+Patel, S. (2026). *Cryptocurrency Price Analytics and Prediction Using a Layered Data Pipeline and Machine Learning*. Zenodo.  
+https://doi.org/10.5281/zenodo.18234965
+
 ---
 
 ## 🔮 Future Enhancements
